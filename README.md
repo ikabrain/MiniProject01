@@ -1,9 +1,12 @@
 # 🧠 Mini Project 01 – Assignment Solution | Thapar Summer School on ML
 
-📅 **Course**: [Thapar's Machine Learning Summer School, 2025](https://www.thaparsummerschool.com/)
-👤 **Student**: Ikansh Mahajan
-📝 **Assignment**: Basics of Python
-📁 **Status**: ✅ Completed
+> 📅 **Course**: [Thapar's Machine Learning Summer School, 2025](https://www.thaparsummerschool.com/)
+> 
+> 👤 **Student**: Ikansh Mahajan
+> 
+> 📝 **Assignment**: Basics of Python
+> 
+> 📁 **Status**: ✅ Completed
 
 ## 📌 Overview
 
